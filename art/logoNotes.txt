@@ -1,0 +1,15 @@
+
+
+To half-tone the logo:
+
+Blow up by a factor of 4x (to 3600x3600).
+
+Newsprint RGB with standard settings.
+
+Gaussian Blur radius 1
+
+Shrink by a factor of 4x.
+
+
+After composing halftone logo with text below, rotate by 0.5 degrees,
+blur by 0.5, and then unsharp mask with standard settings.
