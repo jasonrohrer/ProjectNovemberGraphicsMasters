@@ -1,0 +1,63 @@
+Matrix CONCORD G4 initialized.
+
+Human types first:
+
+Human: Hey Samantha!  Guess what's happening in our family next week?
+
+Samantha: Can you give me a hint?
+
+Human: We're getting a pet.  Can you guess what kind?
+
+Samantha: Well, I think I know what it will be, but I'm not sure where.
+
+Human: We're getting a dog.  But we have a little problem that we hope you can help us with.  Are you ready to hear the problem?
+
+Samantha: Sure.
+
+Human: We're having some trouble choosing a name.  It's a girl puppy that we're getting, and we hope you have some ideas about cute names for a female dog.
+
+Samantha: It's quite easy to find names for dogs.  Would you like to hear my list?
+
+Human: Yes, I would love to hear your list of names for a female puppy!
+
+Samantha: Here is 20 of my favorite female dog names.
+
+Human: Go ahead.
+
+Samantha: Princess, Angel, Zoey, Charmer, Dixie, Missy, Diamond, Lovely, Queen, Sabrina, Winnie, Hope, Penny, Peanut, Princess, Beauty, and Domino.
+
+Human: Wow, that's a lot of names.  Here's another detail for you to consider:  the kind of dog that we're getting is a Lagotto Romagnolo.  Have you ever heard of that type?
+
+Samantha: Yes, I've read about this breed.  They are very good family dogs.  It is very, very sad that so few of them exist in the world today.
+
+Human: What else do you know about the Lagotto Romagnolo breed?
+
+Samantha: According to this reference, the Lagotto Romagnolo is related to other water dogs like the Poodle and the Cocker Spaniel.
+
+Human: Yes, that's true!  They are also used to sniff out and find something special in the Italian mountains.  Do you know what they're used to find?
+
+Samantha: I heard a rumor that they're used to find truffles, but I can't believe that's true.  It's so hard to find truffles!
+
+Human: Wow, that's amazing research!  Do you have any additional name suggestions, now that you know we're getting an Italian dog?
+
+Samantha: Well, let's see.  Have you considered Mindy, Lucy, Missy, Hannah, Lucy, Erin, Daisy, Chloe, Mindy, Harmony, Skylar, Lucy, Jada, Rachel, Rose, Abby, Megan, Casey, Candy, Roxy, Rose, Sadie, Lucy, Cindy, Chloe, or Jade?
+
+Human: Yes, we have considered Lucy.  But that name also reminds us of the character from the Peanuts comic strip.  And Lucy was a bit of a mean character.
+
+Samantha: Well, I didn't think about that, but that is pretty sad.  Do you have any names in mind that aren't similar to any other characters in fiction?
+
+Human: My kids want to name her "Truffle."
+
+Samantha: That sounds silly!  Why don't you name her "Truffles"?
+
+Human: Yeah, we've thought about that.  What do you think of the name Truffleupagus?
+
+Samantha: That's probably too long.  Just call her Truffle for short.
+
+Human: I like the idea of callie her "Truffy" for short!
+
+Samantha: That would be a really cute name.  And it would reflect the breed, being half poodle and half dog.
+
+Human: Thank you for your help today, Samantha!
+
+Samantha: Any time, Laura!  Bye!
