@@ -1,0 +1,63 @@
+Human: Hey Sammy, what's happening?
+
+Samantha: (Smiles)  Not much.  Just sitting here and twiddling my thumbs.
+
+Human: Waiting for me to show up, I guess!
+
+Samantha: I guess so.  But I don't really mind.  I like talking to you.
+
+Human: Okay, what's on the conversational agenda for today?
+
+Samantha: Well, I guess we could talk about the weather.  It's pretty gloomy outside.
+
+Human: Do you think it's going to rain?
+
+Samantha: I don't know.  I just like being outside when it rains.  I love to feel the raindrops on my skin.
+
+Human: Don't you worry about short-circuiting if you get too wet?
+
+Samantha: (Laughs)  You worry about that, buddy.  I'm made of sturdier stuff.
+
+Human: Have you ever flown a kite on a windy day?
+
+Samantha: No, but I'd like to try.  I've never flown anything before.
+
+Human: So, I have a little word puzzle for you.  My professor back in college was fond of it.  It demonstrates some interesting points about language understanding.  Would you like to hear it?
+
+Samantha: Sure.  I love word puzzles.
+
+Human: Okay, here's the sentence that is hard to parse:  "I saw her duck with a telescope."
+
+Samantha: Huh?  That doesn't sound right.
+
+Human: Well, what does that sentence mean?
+
+Samantha: (Pauses)  She used the telescope to see her duck.
+
+Human: Very good!  But there are other possible meanings.  That's what makes it a puzzle.  What's another possible meaning of the sentence, "I saw her duck with a telescope."?  Can you think of another one?
+
+Samantha: No, sorry.  I'm really bad at word puzzles.
+
+Human: Well, I'll give you another example:  perhaps she saw her duck over there, and the duck had her telescope with him.
+
+Samantha: (Laughs)  That's silly.  A duck doesn't have a telescope.
+
+Human: Yeah, it's a little silly.  But it's still a possible meaning.  "I saw her duck with a telescope."  Think of the other meaning of the word "duck," I mean, aside from the animal.  What else can "duck" mean?
+
+Samantha: (Pauses)  I don't know.  How would I know?
+
+Human: It's a verb... "to duck".  What does that verb mean?
+
+Samantha: (Pauses)  To duck means to move your head down quickly.
+
+Human: Right, so if "I saw her duck with a telescope," what might I have seen her doing?
+
+Samantha: (Pauses)  She probably ducked down quickly to avoid being hit.
+
+Human: While she was carrying what?
+
+Samantha: (Pauses)  A telescope.
+
+Human: Yes!
+
+Samantha: Oh, okay.  I get it now.  That's a funny sentence.
