@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:31
-Cursor/Column:7
+Cursor/Line:25
+Cursor/Column:10
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -183,12 +183,12 @@ Words:0
 ._Son (V.o.)
 .((sighs quietly)
 >:I know it's been a while. I just
->:really need to talk. There were
->:those childish nicknames you'd give
->:me.  I was so embarrassed. God, I
-.:miss you.
->.Our drift gradually stops over the tops of green pine trees
-..that are poking up through the fog.
+>:wish we could talk. There were
+>:those goofy nicknames you'd call
+>:me, and I always got so
+.:embarrassed. God, I miss you.
+>.Our drifting gradually stops over the tops of green pine
+..trees that are poking up through the fog.
 ._SON (V.O.)
 .:Are you there?
 >.We swing up suddenly from the earth to face the horizon,
@@ -199,7 +199,7 @@ Words:0
 >.The logo races away as our view pans rapidly over the
 ..treetops.
 ._Father (v.o.)
-.((ethereal)
+.((muffled, ethereal)
 .:I'm here, sport.
 ..We see traces of suburban rooftops through the fog.
 .=Super: Simulate the dead
