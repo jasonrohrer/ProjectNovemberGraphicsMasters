@@ -1,0 +1,4 @@
+This file was too big to store through git on GitHub, and I didn't want to invoke the non-standard Git LFS.
+
+
+https://github.com/jasonrohrer/ProjectNovemberGraphicsMasters/releases/download/simdead_trailer/PD_FINAL_CUT_5.mov
