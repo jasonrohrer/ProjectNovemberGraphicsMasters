@@ -2,3 +2,6 @@ This file was too big to store through git on GitHub, and I didn't want to invok
 
 
 https://github.com/jasonrohrer/ProjectNovemberGraphicsMasters/releases/download/simdead_trailer/PD_FINAL_CUT_5.mov
+
+
+https://github.com/jasonrohrer/ProjectNovemberGraphicsMasters/releases/download/simdead_trailer_9_16/Pd_9_16_crop.mp4
